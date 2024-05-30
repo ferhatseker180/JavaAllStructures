@@ -81,7 +81,7 @@ You can finish the game by clearing all maps.
 
 <div style="text-align:center;"> 
 <h1 style="text-align:center; color: yellow"> Patika Store </h1> 
-<p style="text-align:center;"> Bu proje Java 17 sürümüyle geliştirildi </p>
+<p style="text-align:center;"> This project was developed with Java version 17 </p>
 </div>
 
 ---
