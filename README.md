@@ -30,39 +30,39 @@ You can finish the game by clearing all maps.
 
 <span style="color:green; font-size: 18px;"> Adventure Game Store Main Menu </span>
 
-![Adventure Game Store Main Menu](src/GamesImages/store-main-menu.PNG)
+![Adventure Game Store Main Menu](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/store-main-menu.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Store Guns Menu </span>
 
-![Adventure Game Store Guns Menu](src/GamesImages/store-guns-menu.PNG)
+![Adventure Game Store Guns Menu](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/store-guns-menu.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Store Armors Menu </span>
 
-![Adventure Game Store Armors Menu](src/GamesImages/store-armors-menu.PNG)
+![Adventure Game Store Armors Menu](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/store-armors-menu.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Cave Map </span>
 
-![Adventure Game Cave](src/GamesImages/cave.PNG)
+![Adventure Game Cave](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/cave.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Forest Map </span>
 
-![Adventure Game Forest](src/GamesImages/forest.PNG)
+![Adventure Game Forest](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/forest.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game River Map </span>
 
-![Adventure Game River](src/GamesImages/river.PNG)
+![Adventure Game River](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/river.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Fight First Part </span>
 
-![Adventure Game Fight1](src/GamesImages/fight-1.PNG)
+![Adventure Game Fight1](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/fight-1.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Fight Second Part </span>
 
-![Adventure Game Fight2](src/GamesImages/fight-2.PNG)
+![Adventure Game Fight2](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/fight-2.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Final Fight </span>
 
-![Adventure Game Final Fight](src/GamesImages/fight-3.PNG)
+![Adventure Game Final Fight](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/fight-3.PNG)
 
 </div>
 
