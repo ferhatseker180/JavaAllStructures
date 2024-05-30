@@ -22,11 +22,11 @@ You can finish the game by clearing all maps.
 <span style="color:green; font-size: 18px;"> Adventure Games Choose Character </span>
 
 
-![Adventure Game Character Menu](src/GamesImages/choose-character.PNG)
+![Adventure Game Character Menu](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/choose-character.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Main Menu </span>
 
-![Adventure Game Main Menu](src/GamesImages/main-menu.PNG)
+![Adventure Game Main Menu](https://raw.githubusercontent.com/ferhatseker180/JavaAllStructures/master/src/week4/AdventureGame/AdventureGame/src/GamesImages/main-menu.PNG)
 
 <span style="color:green; font-size: 18px;"> Adventure Game Store Main Menu </span>
 
